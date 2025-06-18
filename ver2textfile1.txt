@@ -1,0 +1,5 @@
+
+ver2 txt1
+ver2 txt2
+ver2 txt3
+ver2 txt4
